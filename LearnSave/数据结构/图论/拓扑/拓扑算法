@@ -1,0 +1,11 @@
+视频链接：
+https://www.bilibili.com/video/BV17g41197sa/?spm_id_from=333.1387.collection.video_card.click&vd_source=a51b232f8dd55424de210c4157e7e99b
+
+1.kahn(卡恩)算法:
+  算法核心是有队列来维护一个入读为0的集合
+  我认为实际就是bfs算法
+
+2.dfs算法:
+  算法核心是变色法（这是一个重要思想），建立一个染色数组，每个
+位置有三种变化分别为 0->1->2 分别代表未访问、访问中、已访问
+  通过变色法来判断是否有环
