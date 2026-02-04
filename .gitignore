@@ -1,0 +1,45 @@
+# IDE Files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.class
+
+# C/C++ specific
+*.i
+*.ii
+*.s
+*.su
+*.dSYM/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build directories
+build/
+dist/
+cmake-build-*/
+
+# Input/Output test files
+*.in
+*.out
+input.txt
+output.txt
+
+# Backup files
+*.bak
+*~
