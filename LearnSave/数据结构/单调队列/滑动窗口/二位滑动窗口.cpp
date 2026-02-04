@@ -1,5 +1,5 @@
 // https://tzcoder.cn/acmhome/problemdetail.do?method=showdetail&id=1515
-
+//可以转化为经典的前缀和加滑动窗口问题
 #include <bits/stdc++.h>
 using namespace std;
 #define IOS ios::sync_with_stdio(false), cin.tie(0), cout.tie(0)
